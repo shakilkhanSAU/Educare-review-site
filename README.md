@@ -1,3 +1,2 @@
-
 #EDUCare
-###English learning platform for everyone
+###Online English Learning Plateform for All
