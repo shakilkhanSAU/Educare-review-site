@@ -1,0 +1,26 @@
+.custom-img {
+    width: 400px;
+}
+
+.card-body {
+    padding: 50px;
+}
+
+.btn-regular {
+    padding: 5px 30px;
+    border: 3px solid white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: .5s;
+}
+
+.btn-regular:hover {
+    border: 3px solid black;
+}
+
+.custom-card {
+    transition: .5s;
+}
+.custom-card:hover {
+    box-shadow: 0 0 10px rgb(216, 216, 216);
+}

@@ -1,0 +1,12 @@
+.footer {
+    background-color: rgb(34, 34, 34);
+    color: #fff;
+    width: 100%;
+    padding: 40px 8%;
+}
+
+.column {
+    padding: 10px;
+    text-align: justify;
+    margin-right: 30px;
+}

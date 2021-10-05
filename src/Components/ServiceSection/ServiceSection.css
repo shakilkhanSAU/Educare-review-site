@@ -1,0 +1,21 @@
+.blog {
+    margin: 10px 12%;
+}
+
+.blog-img {
+    text-align: center;
+}
+
+.blog-img img {
+    width: 600px;
+}
+
+.blog-title {
+    border-bottom: 1px solid rgb(163, 163, 163);
+    margin-bottom: 60px;
+}
+
+.description p {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
