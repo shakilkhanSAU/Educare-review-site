@@ -10,3 +10,18 @@
 .page-info {
     padding-right: 50px;
 }
+
+.btn-contact {
+    padding: 5px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid rgb(248, 240, 240);
+    transition: .5s;
+    background-color: rgb(223, 223, 223);
+}
+
+.btn-contact:hover {
+    border: 3px solid black;
+    color: black;
+    background-color: #fff;
+}

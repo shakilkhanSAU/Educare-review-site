@@ -16,3 +16,18 @@
     background-color: rgb(243, 226, 226);
     padding: 40px 20px;
 }
+
+.btn-about {
+    padding: 5px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid rgb(243, 226, 226);
+    transition: .5s;
+    background-color: rgb(209, 203, 203);
+}
+
+.btn-about:hover {
+    border: 3px solid black;
+    color: black;
+    background-color: #fff;
+}

@@ -12,7 +12,7 @@ const Contact = () => {
                 <Col className="page-info">
                     <h1 style={{ fontSize: '50px', fontWeight: 'bold' }}>Contact Us</h1>
                     <p style={{ fontSize: '20px' }}>Undergraduate education is the post-secondary education previous to the postgraduate education. It includes all the academic programs up to the level of a bachelor's degree.</p>
-                    <button className="btn-regular">Get in Touch</button>
+                    <button className="btn-contact">Get in Touch</button>
                 </Col>
             </Row>
         </div>
