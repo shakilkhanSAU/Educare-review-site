@@ -8,6 +8,6 @@ This website build for teaching English of all classes of people. In this platef
 
 1. Free and premium learning environment for all 
 2. Different courses are offered by EDUCare for business 
-3. English for Kids for under 7 children
+3. English for Kids for under 7 years old children
 
 Online education system make EDUCare more reachable from anywhere of the World
