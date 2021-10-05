@@ -1,7 +1,7 @@
 # EDUCare
 ### Online English Learning Plateform for All
 
-check the website for more [Educare](https://www.google.com)
+check the website for more [Educare](https://learn-english-educare.netlify.app/)
 
 ### Feature of the website
 This website build for teaching English of all classes of people. In this plateform we offer- 
