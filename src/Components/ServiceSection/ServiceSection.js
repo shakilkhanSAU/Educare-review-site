@@ -12,13 +12,13 @@ const ServiceSection = (props) => {
             </div>
             <Card.Body>
                 <div className="blog-title">
-                    <h1>{name}</h1>
+                    <h1 style={{ color: 'teal' }}>{name}</h1>
                     <p style={{ fontSize: '21px' }}>Total Enrolled Students: <span style={{ fontWeight: 'bold' }}>{enrolled}</span></p>
                     <p style={{ fontSize: '20px', marginTop: '-9px' }}>Course Fee: <span style={{ fontWeight: 'bold' }}>${fee}</span></p>
                 </div>
                 <div className="description">
                     <p>{descriptionMini}</p>
-                    <p>{description}</p>
+                    <p>{description.slice(0, 500)}</p>
                 </div>
                 <Link to="/service">
                     <button className="btn-regular">Enroll Now</button>

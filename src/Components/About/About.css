@@ -1,0 +1,18 @@
+.page-image {
+    width: 45%;
+    padding-left: 50px;
+}
+
+.page-image img {
+    width: 450px;
+}
+
+.page-info {
+    margin-left: 8%;
+    margin-top: 130px;
+}
+
+.about-us {
+    background-color: rgb(243, 226, 226);
+    padding: 40px 20px;
+}
